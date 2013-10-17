@@ -22,7 +22,7 @@ https://github.com/helgib10/INTOPrufa
 
 ## 4. Uppsettur hugbúnaður
 
-ingu).<ol>
+<ol>
 <li>Mozilla Firefox - Mozilla Public License - https://developer.mozilla.org/en-US/docs/Developer_Guide/Source_Code/Downloading_Source_Archives</li>
 <li>FileZilla - GNU (General Public Licence) - https://filezilla-project.org/sourcecode.php</li>
 <li>VideoLan - GNU (General Public Licence) - http://videolan.org/vlc/download-sources.html</li>
