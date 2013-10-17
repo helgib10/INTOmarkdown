@@ -1,8 +1,8 @@
 #Open Source
 
-<ol>
+<ul>
 <li> Helgi Bjornsson</li>
-</ol>
+</ul>
 
 ## 1. Linux uppsetning
 
@@ -22,11 +22,10 @@ https://github.com/helgib10/INTOPrufa
 
 ## 4. Uppsettur hugbúnaður
 
-Hér á að koma listi yfir opinn hugbúnað sem þið eruð með á vélunum nú þegar (sjá verkefnislýsingu).
-<ol>
-<li>Mozilla Firefox - https://developer.mozilla.org/en-US/docs/Developer_Guide/Source_Code/Downloading_Source_Archives</li>
-<li>FileZilla - https://filezilla-project.org/sourcecode.php</li>
-<li>VideoLan - http://videolan.org/vlc/downoload-sources.html</li>
+ingu).<ol>
+<li>Mozilla Firefox - Mozilla Public License - https://developer.mozilla.org/en-US/docs/Developer_Guide/Source_Code/Downloading_Source_Archives</li>
+<li>FileZilla - GNU (General Public Licence) - https://filezilla-project.org/sourcecode.php</li>
+<li>VideoLan - GNU (General Public Licence) - http://videolan.org/vlc/download-sources.html</li>
 </ol>
 
 
