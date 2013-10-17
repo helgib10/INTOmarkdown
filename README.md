@@ -1,6 +1,8 @@
 #Open Source
 
-[x] Helgi Bjornsson
+<ol>
+<li> Helgi Bjornsson</li>
+</ol>
 
 ## 1. Linux uppsetning
 
@@ -21,7 +23,9 @@ https://github.com/helgib10/INTOPrufa
 ## 4. Uppsettur hugbúnaður
 
 Hér á að koma listi yfir opinn hugbúnað sem þið eruð með á vélunum nú þegar (sjá verkefnislýsingu).
-<li>Mozilla Firefox - https://developer.mozilla.org/en-US/docs/Develooper\_Guide/Source\_Code/Downloading\_Source\_Archives<lit>
+<ol>
+<li>Mozilla Firefox - https://developer.mozilla.org/en-US/docs/Develooper_Guide/Source_Code/Downloading_Source_Archives</li>
+</ol>
 
 
 ## 5. Unnið með Git (2. hluti)
