@@ -8,7 +8,7 @@
 
 Setti upp Ubuntu á USB lykli vandræðalaust.
 
-![Mynd af linux að keyrast upp](/blob/master/mynd.JPG)
+![Mynd af linux að keyrast upp](/mynd.JPG)
 
 ## 2. Uppsetning á vim && git
 
