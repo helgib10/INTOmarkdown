@@ -24,7 +24,9 @@ https://github.com/helgib10/INTOPrufa
 
 Hér á að koma listi yfir opinn hugbúnað sem þið eruð með á vélunum nú þegar (sjá verkefnislýsingu).
 <ol>
-<li>Mozilla Firefox - https://developer.mozilla.org/en-US/docs/Develooper_Guide/Source_Code/Downloading_Source_Archives</li>
+<li>Mozilla Firefox - https://developer.mozilla.org/en-US/docs/Developer_Guide/Source_Code/Downloading_Source_Archives</li>
+<li>FileZilla - https://filezilla-project.org/sourcecode.php</li>
+<li>VideoLan - http://videolan.org/vlc/downolad-sources.html</li>
 </ol>
 
 
