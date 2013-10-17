@@ -26,7 +26,7 @@ Hér á að koma listi yfir opinn hugbúnað sem þið eruð með á vélunum n�
 <ol>
 <li>Mozilla Firefox - https://developer.mozilla.org/en-US/docs/Developer_Guide/Source_Code/Downloading_Source_Archives</li>
 <li>FileZilla - https://filezilla-project.org/sourcecode.php</li>
-<li>VideoLan - http://videolan.org/vlc/downolad-sources.html</li>
+<li>VideoLan - http://videolan.org/vlc/downoload-sources.html</li>
 </ol>
 
 
